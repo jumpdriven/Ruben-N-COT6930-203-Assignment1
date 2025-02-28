@@ -4,7 +4,7 @@
 A comparaison of various prompt engineering techniques in LLMs for a requirements analysis in Italian Culinary Science, and more broadly, the software development lifecycle (SDLC). 
 
 
-* Authors: [Ruben Nelson]
+* Authors: Ruben Nelson
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
 
