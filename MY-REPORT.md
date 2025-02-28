@@ -28,10 +28,10 @@ How can different prompt engineering techniques and LLMs optimize the quality, c
 #### What this research is exploring
 
 * We employ the following models to generate requirements for Italian cuisine design.
-* *zero-shot
-* *few-shots
-* *chain-of-thought
-* *meta-prompting  
+    * zero-shot
+    * few-shots
+    * chain-of-thought
+    * meta-prompting  
 * We are building a comparative framework to evaluate the effectiveness of each technique in terms of result relevancy, quality, completeness, and processing time.
 * We are exploring how the different LLMs affect the requirements generation process. The other parameters (temperature, context window, prediction length) will also generally be considered in the analysis generally, but not directly modified due to the excessive number of possible combinations.
 · Overall, we investigate how prompt structure and complexity influence the comprehensiveness of generated requirements.
